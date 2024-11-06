@@ -27,19 +27,19 @@ Below are the DevOps tools and processes applied in this project, with evidence 
 - **Proof**:
   - Dockerfile:
   
-    ![alt text](<images\DockerFile.jpg>)
+    ![alt text](<images/DockerFile.jpg>)
 
   - Docker Build Output:
 
-    ![alt text](<images\Dockerbuild.jpg>)
+    ![alt text](<images/Dockerbuild.jpg>)
 
   - Docker Images List:
 
-    ![alt text](<images\Dockerimages.jpg>)
+    ![alt text](<images/Dockerimages.jpg>)
 
   - Application Running in Docker:
 
-    ![alt text](<images\Dockerrun.jpg>)
+    ![alt text](<images/Dockerrun.jpg>)
 
 
 ---
