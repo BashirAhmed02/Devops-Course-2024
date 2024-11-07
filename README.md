@@ -62,6 +62,26 @@ Below are the DevOps tools and processes applied in this project, with evidence 
     ![alt text](<images/Kubernates-run.jpg>)
 
 
+#### Knative
+- **Purpose**: Configured Knative to enable serverless capabilities, allowing the Spring PetClinic application to scale automatically based on demand.
+- **Proof**:
+  - Knative Installation:
+  
+    ![alt text](<images/knative-pods.jpg>)
+
+  - Service YAML Configuration:
+
+    ![alt text](<images/knative-yaml-config.jpg>)
+
+  - Service Creation and Service Status:
+
+    ![alt text](<images/knative.jpg>)
+
+  - Application Running in Knative:
+
+    ![alt text](<images/knative-run.jpg>)
+
+
 ---
 
 ## My DevOps Journey
