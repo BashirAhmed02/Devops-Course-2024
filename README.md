@@ -183,7 +183,7 @@ In this section, I’ll provide a deeper look into the DevOps tools used in this
 
 ## My DevOps Journey
 
-This repository showcases my learning and growth with the skills and tools in DevOps, focusing on containerization, CI/CD, and cloud-native applications.
+This repository highlights my journey into DevOps, where I’ve gained hands-on experience with essential tools and practices. Through a blend of containerization, CI/CD automation, and cloud-native technologies, I’ve developed a strong foundation in building, deploying, and scaling modern applications. This project represents my commitment to continuous learning and showcases my ability to leverage DevOps practices for efficient, reliable, and scalable software delivery.
 
 
 ## My Resume
