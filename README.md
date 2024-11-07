@@ -42,6 +42,26 @@ Below are the DevOps tools and processes applied in this project, with evidence 
     ![alt text](<images/Dockerrun.jpg>)
 
 
+#### Kubernates
+- **Purpose**: Deployed the Spring PetClinic application on a Kubernetes cluster to manage and scale containers.
+- **Proof**:
+  - Deployment YAML Configuration::
+  
+    ![alt text](<images/kubernates-yaml-file.jpg>)
+
+  - kubectl Apply Output:
+
+    ![alt text](<images/kubectl-apply.jpg>)
+
+  - Pods and Services
+
+    ![alt text](<images/Pods-Services.jpg>)
+
+  - Application Running in Kubernetes:
+
+    ![alt text](<images/Kubernates-run.jpg>)
+
+
 ---
 
 ## My DevOps Journey
