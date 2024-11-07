@@ -119,3 +119,7 @@ In this section, I’ll provide a deeper look into the DevOps tools used in this
 ## My DevOps Journey
 
 This repository showcases my learning and growth with the skills and tools in DevOps, focusing on containerization, CI/CD, and cloud-native applications.
+
+
+## My Resume
+[View my resume](Bashir_Ahmed_Resume.pdf)
